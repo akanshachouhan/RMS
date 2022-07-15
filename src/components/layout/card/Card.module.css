@@ -1,0 +1,69 @@
+/* .mainDiv{
+  display: inline-block;
+  position: relative;
+  justify-content: center;
+  justify-items: center;
+  padding: 10px;
+} */
+
+.JobIsDeleted{
+  text-align: center;
+  color: #E02401;
+}
+
+
+.card {
+    /* width: fit-content; */
+    width: 245px;
+    /* height: 333px; */
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 14px;
+    background-color: #bdbdbd;
+    display: inline-block;
+    margin: 20px 30px;
+    height: 333px;
+    margin-top: 3rem;
+  }
+
+.card h3{
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.card h5{
+  margin-top: 1rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+p{
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.btnDiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 3rem; */
+}
+
+.btnDiv .btn{
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  background: #007fff;
+  padding: 3px 8px;
+  border-radius: 5px;
+  border: 1px solid #007fff;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.btnDiv .btn:hover{
+  background: #0059b2;
+  color: #fff;
+  /* border: 1px solid #075076 */
+  transition: 0.3s;
+}

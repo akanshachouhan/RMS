@@ -1,0 +1,30 @@
+/* .listCard{
+    margin: 1rem;
+} */
+
+.notFound{
+  text-align: center;
+  color: #FF0000;
+}
+
+.JobIsLoading{
+    margin-top: 1rem;
+    text-align: center;
+    color: #1F1D36;
+  }
+.JobIsLoading p{
+  font-size: 1.2rem;
+}
+  .JobsError{
+    text-align: center;
+    color: #FF0000;
+    margin-top: 1rem;
+  }
+.JobsError p{
+  font-size: 1.2rem;
+}
+
+.notFound{
+  text-align: center;
+  color: #FF0000;
+}
